@@ -1,0 +1,16 @@
+{
+  "CN": "system:node:w2",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "India",
+      "L": "Bangalore",
+      "O": "system:nodes",
+      "OU": "Kubernetes The Hard Way",
+      "ST": "Karnataka"
+    }
+  ]
+}
